@@ -10,7 +10,7 @@
 <img src="mimikyuuu.jpg" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="155" height="178">
 
-Experienced and enthusiast with some of the popular Backend tech. Fast learner and has a high passion for technology
+Experienced and enthusiast with some of the popular Backend tech. Fast learner and has a high passion for technology.<br>
 As known as `dark` in social media (using this username usually)
 <br><br>&nbsp;
 ![PRs Welcome](https://img.shields.io/badge/web-developer-purple)<br>&nbsp;
