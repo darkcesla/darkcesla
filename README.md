@@ -4,7 +4,7 @@ Experienced and enthusiast with some of the popular Backend tech. Fast learner a
 
 <p align="center">
   <a href="https://codesandbox.io">
-    <img src="bg-aboutme-github.png">
+    <img src="bg-aboutme-github.png" width=800px>
   </a>
 </p>
 
@@ -14,10 +14,10 @@ Experienced and enthusiast with some of the popular Backend tech. Fast learner a
      alt="Size Limit logo by Anton Lovchikov" width="155" height="178">
 
 As known as `dark` in social media (using this username usually)
-
-![PRs Welcome](https://img.shields.io/badge/web-developer-purple)
-![first-timers-only Friendly](https://img.shields.io/badge/backend-developer-blue)
-![lerna](https://img.shields.io/badge/pokemon-master-red)
-![lerna](https://img.shields.io/badge/chess-player-green)
+<br><br>&nbsp;
+![PRs Welcome](https://img.shields.io/badge/web-developer-purple)<br>&nbsp;
+![first-timers-only Friendly](https://img.shields.io/badge/backend-developer-blue)<br>&nbsp;
+![lerna](https://img.shields.io/badge/pokemon-master-red)<br>&nbsp;
+![lerna](https://img.shields.io/badge/chess-player-green)<br>&nbsp;
 ![lerna](https://img.shields.io/badge/casual-gamer-black)
 
