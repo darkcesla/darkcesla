@@ -7,8 +7,7 @@
 
 &nbsp;
 
-<img src="mimikyuuu.jpg" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="155" height="178">
+<img src="mimikyuuu.jpg" align="right" width="155" height="178">
 
 Experienced and enthusiast with some of the popular Backend tech. <br>
 High passion for technology. 🚀 <br><br>
