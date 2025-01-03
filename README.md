@@ -1,6 +1,6 @@
 # Wenn ![CircleCI](https://circleci.com/gh/codesandbox/codesandbox-client.svg?style=svg)
 <p align="center">
-  <a href="https://codesandbox.io">
+  <a href="https://bit.ly/marianne-porto-424">
     <img src="bg-aboutme-github.png" width=800px>
   </a>
 </p>
@@ -15,8 +15,8 @@ Wanna hug Mimikyu and Maki (We are sharing the same initial!)
 
 <br><br>&nbsp;
 ![PRs Welcome](https://img.shields.io/badge/web-developer-purple)<br>&nbsp;
-![first-timers-only Friendly](https://img.shields.io/badge/backend-developer-blue)<br>&nbsp;
-![lerna](https://img.shields.io/badge/pokemon-master-red)<br>&nbsp;
+![first-timers-only Friendly](https://img.shields.io/badge/programmer-blue)<br>&nbsp;
+![lerna](https://img.shields.io/badge/pokemon-trainer-red)<br>&nbsp;
 ![lerna](https://img.shields.io/badge/chess-player-green)<br>&nbsp;
 ![lerna](https://img.shields.io/badge/casual-gamer-black)
 
