@@ -11,7 +11,6 @@
 
 Experienced and enthusiast with some of the popular Backend tech. <br>
 High passion for technology. 🚀 <br><br>
-Wanna hug Mimikyu and Maki (We are sharing the same initial!)
 
 <br><br>&nbsp;
 ![PRs Welcome](https://img.shields.io/badge/web-developer-purple)<br>&nbsp;
