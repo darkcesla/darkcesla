@@ -1,5 +1,3 @@
-# Wenn ![CircleCI](https://circleci.com/gh/codesandbox/codesandbox-client.svg?style=svg)
-
 <p align="center">
   <a href="https://bit.ly/marianne-porto-424">
     <img src="bg.png" width="800px">
