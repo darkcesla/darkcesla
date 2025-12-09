@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://bit.ly/marianne-porto-424">
-    <!-- <img src="bg.png" width="800px"> -->
+    <img src="bg-424.png" width="800px">
   </a>
 </p>
 
